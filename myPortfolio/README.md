@@ -1,24 +1,72 @@
-# Erol Bicer's Responsive Portfolio Website
-## Website URL: www.erolbicer.com
+# Portfolio Website
 
-- The design is based on [Bedimcode](https://github.com/bedimcode)
-- The resume is created on [FlowCV](https://flowcv.com/)
-- The email service provider is [EmailJs](https://www.emailjs.com/)
-- Contact form validations are added using [JavaScript](https://www.youtube.com/watch?v=fz8bwvn9lA4) 
-- Normal alerts are replaced with Sweet Alert [SweetAlert](https://sweetalert.js.org)
-- The favicon generator is [favicon.io](https://favicon.io/favicon-generator/)
-- The Open Graph Meta Tags are added [Open Graph](https://ogp.me/)
-- Videos are embedded from [YouTube](https://www.youtube.com)
-- Presentations are  embedded from [Beautiful.ai](https://www.beautiful.ai)
-- Added Google Tag script for [Google Analytics](https://analytics.google.com)
-- Online meeting integration is from [Calendly](https://calendly.com/)
-- Chatbot integration is from [Crisp](https://crisp.chat/en/)
+A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my skills, experience, and projects in data analytics and business intelligence.
 
-### Landing Page Light
+## Features
 
-![preview img](./assets/snaps/light.png)
+- 🌓 Dark/Light Mode
+- 📱 Fully Responsive Design
+- 🎯 Interactive UI Elements
+- 📊 Skills Showcase
+- 💼 Work Experience Timeline
+- 📂 Project Portfolio
+- 📄 Resume Download
+- 📧 Contact Form
 
-### Landing Page Dark
+## Technologies Used
 
-![preview img](./assets/snaps/dark.png)
+- HTML5
+- CSS3
+- JavaScript
+- Unicons Icons
+- Swiper.js
+- EmailJS
+- Calendly Integration
+
+## Sections
+
+1. **Home**: Introduction and quick overview
+2. **About**: Detailed information about me and my background
+3. **Skills**: Technical skills with interactive popups
+4. **Qualifications**: Education and work experience timeline
+5. **Projects**: Portfolio of data analytics and BI projects
+6. **Resume**: Downloadable resume in PDF format
+
+## Project Structure
+
+```
+portfolio-website/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── img/
+│   ├── data/
+│   └── favicon_io/
+├── index.html
+├── resume.html
+├── resume.pdf
+└── README.md
+```
+
+## Setup and Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/rahul-shm/portfolio-website.git
+```
+
+2. Open `index.html` in your browser to view the website.
+
+## Contact
+
+- LinkedIn: [Rahul Sharma](https://www.linkedin.com/in/rahul-sharma-i)
+- GitHub: [rahul-shm](https://github.com/rahul-shm)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by Rahul Sharma
 
